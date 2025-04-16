@@ -4,7 +4,7 @@
 ## 📘 Project Overview  
 **Carbon Footprint Tracker** is an interactive web application designed to empower users to measure, understand, and reduce their personal carbon footprint. By logging everyday activities such as travel, food consumption, shopping, and electricity usage, users receive personalized insights and actionable recommendations to minimize their environmental impact and promote sustainable living.
 
-🌍 **Live Demo:** [Carbon Footprint Tracker](https://kzmovvbww50izyblipfn.lite.vusercontent.net/)
+🌍 **Live Demo:** [Carbon Footprint Tracker]([https://kzmovvbww50izyblipfn.lite.vusercontent.net](https://v0-carbon-footprint-tracker-yuivzp.vercel.app/)
 
 ---
 
