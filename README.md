@@ -1,4 +1,4 @@
-
+[
 # 🌿 Carbon Footprint Tracker
 
 ## 📘 Project Overview  
@@ -32,7 +32,7 @@ Despite growing awareness about climate change, many individuals lack clear info
 ---
 
 ## 🚀 How to Use  
-1. 🌍 Visit the live site: [https://v0-carbon-footprint-tracker-w4f2r0.vercel.app/)  
+1. 🌍 Visit the live site: ([https://kzmovvbww50izyblipfn.lite.vusercontent.net](https://v0-carbon-footprint-tracker-yuivzp.vercel.app/).
 2. 📅 Log your daily activities across different categories.  
 3. 📊 View your personalized carbon footprint dashboard.  
 4. 💡 Follow actionable suggestions to reduce your environmental impact.  
