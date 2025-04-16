@@ -1,4 +1,3 @@
-[
 # 🌿 Carbon Footprint Tracker
 
 ## 📘 Project Overview  
